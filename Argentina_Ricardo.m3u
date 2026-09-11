@@ -1,0 +1,16 @@
+#EXTM3U
+# Argentina_Ricardo_V3.m3u
+# V3 - prueba Samsung / Smart IPTV
+# El Trece se conserva porque fue confirmado funcionando en la TV.
+
+#EXTINF:-1 tvg-id="ElTrece.ar" group-title="Aire",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPublica.ar" group-title="Aire",TV Publica
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" group-title="Noticias",Canal 26
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w940611112.m3u8
