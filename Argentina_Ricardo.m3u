@@ -1,0 +1,50 @@
+#EXTM3U
+# Argentina - playlist personalizada
+# Generada 2026-09-10
+# Nota: ESPN no se incluye porque no se encontró un stream público directo adecuado para M3U.
+
+# --- AIRE ---
+#EXTINF:-1 tvg-id="TVPublica.ar" group-title="Aire",TV Pública
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/tvpublica_720.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" group-title="Aire",Telefe
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" group-title="Aire",El Trece
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" group-title="Aire",América TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar" group-title="Aire",El Nueve
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-16_720.m3u8
+
+# --- NOTICIAS ---
+#EXTINF:-1 tvg-id="TN.ar" group-title="Noticias",TN
+https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
+
+#EXTINF:-1 tvg-id="C5N.ar" group-title="Noticias",C5N
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" group-title="Noticias",A24
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" group-title="Noticias",Crónica TV
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" group-title="Noticias",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+# --- DEPORTES ---
+#EXTINF:-1 tvg-id="TyCSports.ar" group-title="Deportes",TyC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="Deportes",Fox Sports
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8
+
+# --- ENTRETENIMIENTO ---
+#EXTINF:-1 tvg-id="Volver.ar" group-title="Entretenimiento",Volver
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-74_480.m3u8
